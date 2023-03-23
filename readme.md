@@ -14,3 +14,11 @@ A library of payments methods icons in SVG. For all of your projects.
 | ![mastercard.svg](https://raw.githubusercontent.com/agenceam/SVG-Payment-Icons/master/src/mastercard.svg?sanitize=true)   | src/mastercard.svg |
 | ![paypal.svg](https://raw.githubusercontent.com/agenceam/SVG-Payment-Icons/master/src/paypal.svg?sanitize=true)   | src/paypal.svg |
 | ![visa.svg](https://raw.githubusercontent.com/agenceam/SVG-Payment-Icons/master/src/visa.svg?sanitize=true)   | src/visa.svg |
+
+
+## Credit
+
+Initial work :
+
+- [@datatrans](https://github.com/datatrans/payment-logos)
+
