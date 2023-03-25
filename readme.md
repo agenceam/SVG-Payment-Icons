@@ -16,6 +16,10 @@ A library of payments methods icons in SVG. For all of your projects.
 | ![visa.svg](https://raw.githubusercontent.com/agenceam/SVG-Payment-Icons/master/src/visa.svg?sanitize=true)   | src/visa.svg |
 
 
+## Contributing
+
+Contributions are always welcome!
+
 ## Credit
 
 Initial work :
